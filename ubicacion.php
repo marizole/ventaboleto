@@ -11,7 +11,7 @@
 <body>
 <div id="wrapper">
 	<div id="header">
-    <h5><a href="index.php"> <img src="xres/images/logo.png" class="logo" alt="James Buchanan Pub and Restaurant" width="200" height="200"/></a></h5>
+    <h5><a href="index.php"> <img src="xres/images/logo.png" class="logo" alt="" width="200" height="200"/></a></h5>
         <ul id="mainnav">
 			<li><a href="index.php">Inicio</a></li>
             <li><a href="galeria.php">Galería</a></li>
@@ -21,6 +21,7 @@
             <li><a href="contacto.php">Contáctenos</a></li>
     	</ul>
 	</div>
+    <h1>TERMINAL DE BUSES LA PAZ</h1>
     <div id="content">
     	<div id="gallerycontainer">
 			<div class="portfolio-area" style="margin:0 auto; padding:140px 20px 20px 20px; width:820px;">	
@@ -35,7 +36,7 @@
 
 
 <div id="footer">
-	<h4>+59175250201 &bull; <a href="contact-us.php">Asociacion de Transporte Libre (ATL) - Marizol & Ramon </a></h4>
+	<h4><a href="contact-us.php">Asociacion de Transporte Libre (ATL) - Marizol & Ramon </a></h4>
 	<h2><p>Horas de atencion&nbsp;&nbsp;&bull;&nbsp;&nbsp;Lunes - Domingo: 06:00 am - 20:00 pm</p>
 	<a href="index.php"><img src="" alt="" /></a>
 	<p>&copy; Tecnologia Emergentes I <br /></p></h2>
