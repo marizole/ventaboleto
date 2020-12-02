@@ -11,7 +11,7 @@
 <body>
 <div id="wrapper">
 	<div id="header">
-        	<h5><a href="index.php"><img src="xres/images/logo.png" class="logo" alt="" width="200" height="200"/></a></h5>
+        	<h5><a href="index.php"><img src="xres/images/logo7.png" class="logo" alt="" width="200" height="200"/></a></h5>
         	<ul id="mainnav">
 			<li><a href="index.php">Inicio</a></li>
             <li><a href="galeria.php">Galería</a></li>
@@ -24,65 +24,37 @@
     <div id="content">
     	<div id="gallerycontainer">
 			<div class="portfolio-area" style="margin:0 auto; padding:140px 20px 20px 20px; width:820px;">	
-					<p>
-						Con la presencia de transportistas agrupados en más de 40 sindicatos de las ciudades de La Paz y El Alto, el 18 de Mayo de 2015 fue inaugurada de manera oficial la Terminal Interprovincial que se encuentra ubicada en la zona Villa Esperanza del Distrito Municipal 5, al norte de la urbe alteña.
+					<p><font color="ForestGreen">
+						El sistema que queremos implementar es un sistema de ventas innovador, para los clientes donde puedan decidir dónde y qué comprar. El desarrollo del sistema tendrá los procesos estandarizados de venta de pasajes, con la cual pueden llegar a captar clientes potenciales; también formar una base sólida para la toma de una decisión acertadas.</font>
 					</p>
 					<br>
 					<br>
-					<p>
-						Uno de los principales gestores de dicha infraestructura y quien es el presidente del barrio mencionado, Hugo Alavi, señaló que a partir de la fecha todos los sindicatos de transportistas que estaban dispersados en varias zonas de la urbe, como son la avenida La Paz, La Ceja, 12 de Octubre y otras calles adyacentes, ya podrán centralizar su trabajo en este sector de la ciudad.
+					<p><font color="ForestGreen">
+						Por las razones mencionadas, este trabajo busca mejorar los procesos de negocios como el proceso de ventas. Esta solución tecnológica busca resolver las dificultades en el proceso de ventas, el cual se realiza bajo un procedimiento manual; a su vez satisfaga las necesidades del cliente y que los procesos del negocio sean más eficientes y se reduzca notablemente el tiempo de una transacción (venta de pasajes), con la mejora en los procesos de negocio se busca que no existan problemas de duplicidad de pasajes, porque toda la información se encontrara en línea para verificar su disponibilidad.</font>
 					</p>
 					<br>
 					<br>
-					<p>
-						“Culminamos con todo el trabajo que nos hemos propuesto, desde su inicio, a pesar de que tuvimos muchos problemas con algunos vecinos porque no hemos podido contentar a todos con esta construcción, pero que al final entendieron que todo fue en beneficio de la zona de todos nuestros transportistas interprovinciales y de los mismos habitantes del distrito, porque sabemos que favorecerá a mucha gente”, manifestó el dirigente Alavi.
+					<p><font color="ForestGreen">
+						Para cubrir todas estas necesidades se decidió crear un sistema de información el cual sea capaz de llevar a cabo el proceso de venta de pasajes con las siguientes características básicas:</font>
 					</p>
 					<br>
 					<br>
-					<p>
-						Asimismo, se garantizó la capacidad con que contará dicha terminal, en la cual podrán circular por lo menos 10 mil transportistas afiliados a los diferentes sindicatos que arribarán desde muchos sectores del departamento, especialmente de localidades aledañas al Lago Titicaca.
+					<p><font color="ForestGreen">
+							Espacio de verificación de la disponibilidad de los asientos para cada viaje.<br>
+							Espacio de ventas de pasajes<br>
+							Espacio de registrar las ventas de los pasajes<br>
+					</font>
 					</p>
 					<br>
 					<br>
-					<p>
-						La inauguración estuvo a cargo de la primera autoridad del país, Evo Morales, quien junto a autoridades departamentales y municipales de la urbe alteña asistieron a la ceremonia y ch’alla de toda la infraestructura.
+					<p><font color="ForestGreen">
+						Adicionalmente debe tener un espacio de generar informes los cuales reflejen cuadros estadísticos en cuanto a los seguimientos de viaje y ruta, informe de ingresos el cual entregue información de que pasaje se ha realizado y los detalles del viaje.</font>
 					</p> 
 					<br>
 					<br>
-					<p>
-						“Si en este momento quisieran comparar esta terminal con la de La Paz, Cochabamba o de Santa Cruz, tenemos una terminal de lujo en la ciudad de El Alto”, resaltó Morales ante una multitud de vecinos que se dio cita al lugar para presenciar la entrega de la obra.
-					</p>
-					<br>
-					<br>
-					<p>
-						La Terminal cuenta con dos pisos, donde están instalados ambientes destinados a los servicios higiénicos, carriles para transportar pasajeros, cabinas telefónicas, cacetas de pasajes y depósitos para encomiendas.
-					</p>
-					<br>
-					<br>
-					<p>
-						Además de casas de cambios, entidades bancarias, correos y oficinas de la Fuerza Especial de Lucha Contra el Narcotráfico (Felcn) y la Fuerza Especial de Lucha Contra el Crimen (Felcc) y la Fuerza Especial de Lucha Contra la Violencia (Felcv).
-					</p>
-
-					<br>
-					<br>
-					<p>
-						Una de las autoridades municipales que asistió al acto de entrega fue el alcalde de El Alto, Zacarías Maquera, quien recordó que esta obra fue aprobada, cuando su persona fungía como presidente del Concejo. Señaló que el proyecto fue efectuado de manera inmediata, por su importancia y para que, de esta forma, los transportistas interprovinciales puedan tener un lugar para poder llegar y no así como en la actualidad dispersadas en diferentes zonas alteñas.
-					</p>
-					<br>
-					<br>
-					<p>
-						“Recuerdo que cuando yo estaba como presidente del Concejo, ordené que esta obra sea construida cuanto antes, para lo cual, de la misma manera, exigí que su aprobación en la instancia municipal sea rápida, porque sabíamos que sería una importante infraestructura, para todos los alteños”, señaló Maquera.
-					</p>
-					<br>
-					<br>
-					<p>
-						Por su parte, vecinos y dirigentes saludaron la entrega oficial de la Terminal Interprovincial, obra que, según aseguraron, traerá a la zona progreso y fuentes de trabajo indirectas debido a que podrán contar con espacios para la venta de diferentes productos en las afueras de la terminal.
-					</p>
-					<br>
-					<br>
-					<p>
-						Se estima que en la infraestructura, por hora, circulen 180 vehículos y al menos 2.000 personas
-					</p>
+					<p><font color="ForestGreen">
+						El sistema permite que el proceso de venta de pasajes se realice desde cualquier punto que posea conexión a Internet. De la misma forma otorga herramientas de administración a la gerencia desde cualquier punto del País. De esta forma se entregará una herramienta mediante la cual el proceso de ventas puede ser ejecutado y gestionado sin necesidad de incurrir en grandes costos de operación.</font>
+					</p>					
 					<br>
 
 				<div class="column-clear"></div>
@@ -90,16 +62,13 @@
 			<div class="clearfix"></div>
         </div>
     </div>
-    
 
-
-
-<div id="footer">
-	<h4>+59175250201 &bull; <a href="contact-us.php">Asociacion de Transporte Libre (ATL) - Marizol & Ramon</a></h4>
-	<h2><p>Horas de atencion&nbsp;&nbsp;&bull;&nbsp;&nbsp;Lunes - Domingo: 06:00 am - 20:00 pm</p>
-	<a href="index.php"><img src="" alt="" /></a>
-	<p>&copy; Tecnologia Emergentes I <br /></p></h2>
-</div>
+	<div id="footer">
+    	<h2><a href="#"> <font color="Gold" face="Courier New">Asociacion de Transporte Libre (ATL) - Marizol & Ramon</font></a></h2>
+    	<h2><p><font color="Gold" face="Courier New">Horarios de atencion de &nbsp;&nbsp;&bull;&nbsp;&nbsp;Lunes - Domingo: 06:00 am - 20:00 pm</font></p>
+    	<a href="index.php"></a>
+    	<p><font color="Gold" face="Courier New">&copy; Tecnologia Emergentes I</font><br /></p></h2>
+  	</div>
 
 </div>
 </body>
