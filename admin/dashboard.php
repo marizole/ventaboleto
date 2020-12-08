@@ -83,7 +83,7 @@
 						</thead>
 						<tbody>
 						<?php
-							include('../db.php');
+							include('../conexionDB.php');
 							$result = mysql_query("SELECT * FROM customer");
 							while($row = mysql_fetch_array($result))
 								{
@@ -117,7 +117,7 @@
 					</table>
 				</div>
 				<div id="footer" class="radius-bottom">
-					2020 ©
+					2020 ï¿½
 					<a class="afooter-link" href="">administracion de sistema de sindicato</a>
 					de
 					<a class="afooter-link" href="">Tecnologia Emergentes I</a>
