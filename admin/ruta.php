@@ -64,7 +64,7 @@
 					<div class="clearfix"></div>
 				</ul>
 				<div id="content" class="clearfix">
-					<label for="filter">Filtrar</label> <input type="text" name="filter" value="" id="filter" />
+					
 					<a rel="facebox" href="add_ruta.php">Agregar ruta</a>
 					
 					<table cellpadding="1" cellspacing="1" id="resultTable">
@@ -99,7 +99,7 @@
 				</div>
 				<div id="footer" class="radius-bottom">
 					2020
-					<a class="afooter-link" href="">administracion de sistema de sindicato</a>
+					<a class="afooter-link" href="">Asociacion de Transporte Libre ATL Marisol & Ramon</a>
 					de
 					<a class="afooter-link" href="">Tecnologia Emergentes I</a>
 				</div>
