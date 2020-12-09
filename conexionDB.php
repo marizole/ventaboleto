@@ -2,7 +2,7 @@
 $mysql_hostname = "localhost";
 $mysql_user = "root";
 $mysql_password = "123";
-$mysql_database = "ticket";
+$mysql_database = "db_bus";
 $prefix = "";
 
 $bd = mysql_connect($mysql_hostname, $mysql_user, $mysql_password) or die("Could not connect database");

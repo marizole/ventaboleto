@@ -11,7 +11,7 @@
 <body>
 <div id="wrapper">
 	<div id="header">
-        	<h5><a href="index.php"><img src="xres/images/logo7.png" class="logo" alt="" width="200" height="200"/></a></h5>
+        	<h5><a href="index.php"><img src="xres/images/BLOG.png" class="logo" alt="" width="200" height="200"/></a></h5>
         	<ul id="mainnav">
 			<li><a href="index.php">Inicio</a></li>
             <li><a href="galeria.php">Galería</a></li>

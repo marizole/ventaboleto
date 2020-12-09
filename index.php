@@ -101,7 +101,7 @@ unset($_SESSION['SESS_MEMBER_ID']);
 <body>
 <div id="wrapper">
   <div id="header">
-    <h5><a href="index.php"><img src="xres/images/logo6.png" class="logo" alt="ONLINE BUS RESERVATION" width="220" height="220"/></a></h5>
+    <h5><a href="index.php"><img src="xres/images/BLOG.png" class="logo" alt="ONLINE BUS RESERVATION" width="220" height="220"/></a></h5>
       <ul id="mainnav">
           <li class="current"><a href="index.php">Inicio</a></li>
           <li><a href="galeria.php">Galería</a></li>
