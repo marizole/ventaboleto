@@ -128,11 +128,11 @@ unset($_SESSION['SESS_MEMBER_ID']);
             <select name="route" style="width: 191px; margin-left: 15px; border: 3px double #CCCCCC; padding:5px 10px;"/>
               <?php
               include('conexionDB.php');
-              $result = mysql_query("SELECT * FROM ruta");
+              $result = mysql_query("SELECT * FROM route");
               while($row = mysql_fetch_array($result))
               {
                 echo '<option value="'.$row['id'].'">';
-                echo $row['ruta'].'  :'.$row['type'].'  :'.$row['time'];
+                echo $row['route'].'  :'.$row['type'].'  :'.$row['time'];
                 echo '</option>';
               }
               ?>

@@ -19,7 +19,7 @@
 	$password = clean($_POST['password']);
 	
 	//Create query
-	$qry="SELECT * FROM empleado WHERE usuario='$login' AND contrasena='$password'";
+	$qry="SELECT * FROM admin WHERE username='$login' AND password='$password'";
 	$result=mysql_query($qry);
 	//while($row = mysql_fetch_array($result))
 //  {
@@ -31,11 +31,11 @@
 			//Inicio de sesión correcto
 			session_regenerate_id();
 			$member = mysql_fetch_assoc($result);
-			$_SESSION['SESS_MEMBER_ID'] = $member['ci_emp'];
-			$_SESSION['SESS_FIRST_NAME'] = $member['usuario'];
+			$_SESSION['SESS_MEMBER_ID'] = $member['id'];
+			$_SESSION['SESS_FIRST_NAME'] = $member['username'];
 			session_write_close();
 			//if ($level="admin"){
-			header("location: admin/dashboard.php");
+			header("location: admin/board.php");
 			exit();
 		}else {
 			//Login failed

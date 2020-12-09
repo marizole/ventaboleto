@@ -42,7 +42,7 @@
                	<li class="portfolio-item2" data-id="id-6" data-type="cat-item-1">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/14.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/14.jpg"  />                    
+						<a class="image-zoom" href="img/1.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/1.jpg"  />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -55,7 +55,7 @@
                 <li class="portfolio-item2" data-id="id-7" data-type="cat-item-1">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/15.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/15.jpg"  />                    
+						<a class="image-zoom" href="img/2.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/2.jpg"  />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -68,7 +68,7 @@
                 <li class="portfolio-item2" data-id="id-2" data-type="cat-item-1">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/7.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/7.jpg" />
+						<a class="image-zoom" href="img/3.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/3.jpg" />
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -81,7 +81,7 @@
 		        <li class="portfolio-item2" data-id="id-8" data-type="cat-item-1">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/16.jpg" rel="prettyPhoto[gallery]"><img width="225" height="140" src="img/16.jpg" />                    
+						<a class="image-zoom" href="img/4.jpg" rel="prettyPhoto[gallery]"><img width="225" height="140" src="img/4.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -94,7 +94,7 @@
                 <li class="portfolio-item2" data-id="id-1" data-type="cat-item-2">	
 			       <div>
                    		<span class="image-block">
-							<a class="image-zoom" href="img/16.jpg" rel="prettyPhoto[gallery]" title="Up"><img width="225" height="140" src="img/16.jpg" alt="Up" title="Up" />                    
+							<a class="image-zoom" href="img/5.jpg" rel="prettyPhoto[gallery]" title="Up"><img width="225" height="140" src="img/5.jpg" alt="Up" title="Up" />                    
                     		</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -108,7 +108,7 @@
             	<li class="portfolio-item2" data-id="id-9" data-type="cat-item-2">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/17.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/17.jpg"  />                    
+						<a class="image-zoom" href="img/6.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/6.jpg"  />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -121,7 +121,7 @@
                 <li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/14.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/14.jpg" />                    
+						<a class="image-zoom" href="img/7.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/7.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -135,7 +135,7 @@
                 <li class="portfolio-item2" data-id="id-5" data-type="cat-item-2">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/14.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/14.jpg" />                    
+						<a class="image-zoom" href="img/8.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/8.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -149,7 +149,7 @@
             	<li class="portfolio-item2" data-id="id-10" data-type="cat-item-3">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/18.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/18.jpg"  /> </a>
+						<a class="image-zoom" href="img/9.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/9.jpg"  /> </a>
                     	</span>
                    		<div class="home-portfolio-text">
 							<h2 class="post-title-portfolio"><a href="#" rel="bookmark" title="Rango">Bus Normal</a></h2>
@@ -161,7 +161,7 @@
                 <li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/12.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/12.jpg" />                    
+						<a class="image-zoom" href="img/10.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/10.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -174,7 +174,7 @@
                 <li class="portfolio-item2" data-id="id-4" data-type="cat-item-3">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/12.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/12.jpg" />                    
+						<a class="image-zoom" href="img/11.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/11.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -200,7 +200,7 @@
 		        <li class="portfolio-item2" data-id="id-11" data-type="cat-item-4">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/19.jpg" rel="prettyPhoto[gallery]"><img width="225" height="140" src="img/19.jpg"  />                    
+						<a class="image-zoom" href="img/13.jpg" rel="prettyPhoto[gallery]"><img width="225" height="140" src="img/13.jpg"  />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
@@ -213,7 +213,7 @@
                 <li class="portfolio-item2" data-id="id-0" data-type="cat-item-4">	
 			    <div>
                    <span class="image-block">
-					<a class="image-zoom" href="img/3.jpg" rel="prettyPhoto[gallery]" title="Wall-E"><img width="225" height="140" src="img/9.jpg" alt="Wall-E" title="Wall-E" />                    
+					<a class="image-zoom" href="img/14.jpg" rel="prettyPhoto[gallery]" title="Wall-E"><img width="225" height="140" src="img/14.jpg" alt="Wall-E" title="Wall-E" />                    
                     </a>
                    </span>
                    	<div class="home-portfolio-text">
@@ -227,7 +227,7 @@
                 <li class="portfolio-item2" data-id="id-0" data-type="cat-item-4">	
 			    <div>
                    <span class="image-block">
-					<a class="image-zoom" href="img/3.jpg" rel="prettyPhoto[gallery]" title="Wall-E"><img width="225" height="140" src="img/9.jpg" alt="Wall-E" title="Wall-E" />                    
+					<a class="image-zoom" href="img/15.jpg" rel="prettyPhoto[gallery]" title="Wall-E"><img width="225" height="140" src="img/15.jpg" alt="Wall-E" title="Wall-E" />                    
                     </a>
                    </span>
                    	<div class="home-portfolio-text">
@@ -241,7 +241,7 @@
                	<li class="portfolio-item2" data-id="id-3" data-type="cat-item-4">	
 			        <div>
                    		<span class="image-block">
-						<a class="image-zoom" href="img/10.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/10.jpg" />                    
+						<a class="image-zoom" href="img/16.jpg" rel="prettyPhoto[gallery]" ><img width="225" height="140" src="img/16.jpg" />                    
                     	</a>
                     	</span>
                    		<div class="home-portfolio-text">
