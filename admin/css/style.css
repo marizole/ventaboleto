@@ -153,22 +153,8 @@ pre { font-family: monospace;}
 		width: 85%;
 	}
 			
-			#search {
-				-webkit-border-radius: 10px;
-				-moz-border-radius: 10px;
-				background-color: white;
-				padding: 10px;
-				position: fixed;
-				right:8.8%;
-				top:3.5%;
-				display: none;
-			}
 			
 			
-			
-			#body {
-				
-			}
 				#resultTable {
 					background-color: white;
 					margin-top: 8px;
