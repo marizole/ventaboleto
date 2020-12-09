@@ -96,7 +96,7 @@ while($row = mysql_fetch_array($result))
 ?>
 <?php
 if ($avail < $qty){
-echo 'Qty reserve exced the available seat of the bus';
+echo 'La reserva de cantidad excedió el asiento disponible del autobús';
 }
 else if($avail > 0)
 {
@@ -107,25 +107,25 @@ function validateForm()
 var x=document.forms["form"]["fname"].value;
 if (x==null || x=="")
   {
-  alert("First Name must be filled out");
+  alert("Debe completar el nombre");
   return false;
   }
 var y=document.forms["form"]["lname"].value;
 if (y==null || y=="")
   {
-  alert("Last Name must be filled out");
+  alert("Debe completar el apellido");
   return false;
   }
 var a=document.forms["form"]["address"].value;
 if (a==null || a=="")
   {
-  alert("Address must be filled out");
+  alert("La dirección debe ser completada");
   return false;
   }
 var b=document.forms["form"]["contact"].value;
 if (b==null || b=="")
   {
-  alert("Contact Number must be filled out");
+  alert("Debe completar el número de contacto");
   return false;
   }
 
@@ -138,33 +138,40 @@ if (b==null || b=="")
 <input type="hidden" value="<?php echo $date ?>" name="date" />
 <input type="hidden" value="<?php echo $qty ?>" name="qty" />
 <label>Número de asiento
-<span class="small">Auto generado<a rel="facebox" href="ubicacion_butaca.php?id=<?php echo $busnum; ?>">ver el asiento</a></span>
+<span class="small">Auto generado<a rel="facebox" href="ubicacion_butaca.php?id=<?php echo $busnum; ?>">ver</a></span>
 </label>
 <input type="text" name="setnum" value="
 <?php
+
 $N = $qty;
 for($i=0; $i < $N; $i++)
 {
 echo $i+$setnum.', ';
 } 
  ?>
-" id="name" readonly/><br>
+
+"id="name" /><br>
+
 <label>Nombre
 <span class="small">Ingresa el nombre</span>
 </label>
 <input type="text" name="fname"  id="name"/><br>
+
 <label>Apellido
 <span class="small">Introduzca el apellido</span>
 </label>
 <input type="text" name="lname"  id="name"/><br>
+
 <label>Dirección
 <span class="small">Ingresa la direccion</span>
 </label>
 <input type="text" name="address"  id="name"/><br>
+
 <label>Contacto
 <span class="small">Ingrese el número de contacto</span>
 </label>
 <input type="text" name="contact"  id="name"/><br>
+
 <button type="submit">Confirmar</button>
 </form>
 </div>

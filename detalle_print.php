@@ -43,6 +43,7 @@ while($rows = mysql_fetch_array($results))
 			echo $rowa['route'].'     :'.$rowa['type'];
 			$time=$rowa['time'];
 			}
+		echo '<br>';	
 		echo 'Hora de salida: '.$time;
 		echo '<br>';
 		echo 'Numero de butaca: '.$setnum.'<br>';
